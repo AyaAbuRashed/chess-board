@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "chess-board"
 version = "0.1.0"
-description = ""
+description = "chess board for lab 11"
 authors = ["AyaAbuRashed <ayanaser402@gmail.com>"]
 
 [tool.poetry.dependencies]
